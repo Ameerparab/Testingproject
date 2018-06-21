@@ -1,0 +1,2 @@
+#python first script
+print "My name is"
